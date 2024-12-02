@@ -1,5 +1,5 @@
 
-//KNM Algo .... Search Pattern...
+//KMP Algo .... Search Pattern...
 /*
  * 
  * Input: txt = "abcab", pat = "ab"
